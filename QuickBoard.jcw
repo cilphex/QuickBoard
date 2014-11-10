@@ -1,0 +1,16 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "QuickBoard"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\QuickBoard\\QuickBoard.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\QuickBoard\\WordFinder.java" #[EndFile]
+#[BeginFile]SOURCE := "\\QuickBoard\\QuickBoard.java" #[EndFile]
+#[BeginFile]SOURCE := "\\QuickBoard\\KeyHandler.java" #[EndFile]
+
+! Start Breakpoint Structure
+
